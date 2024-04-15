@@ -1,0 +1,23 @@
+Site vetement
+
+nav barre:
+- page d'accueil
+- produits
+- a propos
+
+page d'accueil
+- phrases accrochante
+- logo
+- commentaire
+
+produits
+- produit
+- prix
+- description
+- animation
+- une carte google (adresse efrei)
+
+a propos
+- contact
+- coordonnée entreprise 
+- formulaire
